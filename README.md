@@ -10,7 +10,7 @@
 </a>
 
 I'm a 16 year old developer with 2+ years of experience designing, developing and implementing 
-applications and solutions using a range of technologies and programming languages.
+applications and solutions using a range of technologies and programming languages. I'm primarily experienced in Python, Go, Flutter + Dart, SQL, AWS, Google Cloud, C++, Java
 <br />
 <br />
 
