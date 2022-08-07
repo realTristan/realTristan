@@ -1,2 +1,3 @@
 ![banner](https://user-images.githubusercontent.com/75189508/183313840-fbca3224-364c-4014-b5d5-7b5798330f06.png)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realTristan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realTristan&langs_count=8)](https://github.com/realTristan/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realTristan)](https://github.com/realTristan/github-readme-stats)
