@@ -19,15 +19,10 @@ I'm a 16 year old developer with 2+ years of experience designing, developing an
 <br />
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realTristan&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
-<br />
-<br />
-<br />
-
-**WHEN YOU'RE BACKED AGAINST THE WALL, BREAK THE GODDAMN THING DOWN**
-
 </div>
 
 <div align="center">
+<br />
 <br />
 
 [realTristan](https://github.com/realTristan)
