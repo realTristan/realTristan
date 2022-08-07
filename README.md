@@ -13,8 +13,6 @@ I'm a 16 year old developer with 2+ years of experience designing, developing an
 applications and solutions using a range of technologies and programming languages.
 <br />
 
-<h2 style="margin-bottom: 5px; font-size: 20px;">Stack<h2/>
-
 <h3> Services </h3>
 
 ⭐ **AWS**<br />
