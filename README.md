@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/75189508/183313840-fbca3224-364c-4014-b5d5-7b5798330f06.png)
 
 <div align="center">
-<h2> Bonjour! Bienvenue sur mon profil! <img src="https://github.com/realTristan/realTristan/blob/main/gifs/Hi.gif" width="30"></h2>
+<h2> Bonjour, Bienvenue sur mon profil! <img src="https://github.com/realTristan/realTristan/blob/main/gifs/Hi.gif" width="30"></h2>
 <a href="https://twitter.com/tristans121" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; padding: 20px;" />
 </a>
