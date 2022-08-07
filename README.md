@@ -13,17 +13,22 @@ I'm a 16 year old developer with 2+ years of experience designing, developing an
 applications and solutions using a range of technologies and programming languages.
 <br />
 
-# Primary Technologies
-⭐ **AWS**
-⭐ **SQL**
-⭐ **Google Cloud**
-⭐ **Golang (Experienced)**
-⭐ **Python (Experienced)**
-⭐ **Flutter / Dart (Experienced)**
-⭐ **Javascript/Typescript**
-⭐ **C/C++**
-⭐ **Java**
-<br />
+# Stack
+
+<h1> Services </h1>
+
+⭐ **AWS**<br />
+⭐ **SQL**<br />
+⭐ **Google Cloud**<br />
+
+<h1> Languages </h1>
+
+⭐ **Golang (Experienced)**<br />
+⭐ **Python (Experienced)**<br />
+⭐ **Flutter / Dart (Experienced)**<br />
+⭐ **Javascript/Typescript**<br />
+⭐ **C/C++**<br />
+⭐ **Java**<br />
 <br />
 
 **Winners don't make excuses.**
