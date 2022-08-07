@@ -12,17 +12,17 @@
 I'm a 16 year old developer with 2+ years of experience designing, developing and implementing 
 applications and solutions using a range of technologies and programming languages.
 <br />
-I'm familiar with:
-<br />
-- AWS API Gatways
-- AWS RDS Databases
-- AWS Lambda
-- Golang (Experienced)
-- Python (Experienced)
-- Flutter / Dart (Experienced)
-- Javascript/Typescript
-- C/C++
-- Java
+
+# Primary Technologies
+⭐ **AWS**
+⭐ **SQL**
+⭐ **Google Cloud**
+⭐ **Golang (Experienced)**
+⭐ **Python (Experienced)**
+⭐ **Flutter / Dart (Experienced)**
+⭐ **Javascript/Typescript**
+⭐ **C/C++**
+⭐ **Java**
 <br />
 <br />
 
