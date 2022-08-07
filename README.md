@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/75189508/183313840-fbca3224-364c-4014-b5d5-7b5798330f06.png)
 
 <div align="center">
-<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/realTristan/realTristan/blob/main/gifs/Hi.gif" width="30"></h2>
+<h2> Bonjour! Welcome to my Github profile! <img src="https://github.com/realTristan/realTristan/blob/main/gifs/Hi.gif" width="30"></h2>
 <a href="https://linkedin.com/in/realTristan" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
