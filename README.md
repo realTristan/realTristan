@@ -18,9 +18,15 @@ I'm a 16 year old developer with 2+ years of experience designing, developing an
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=realTristan&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=radical" alt="RealTristan Github Stats">
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realTristan&layout=compact&theme=radical&bg_color=0A0A0A" alt="RealTristan Top Languages"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realTristan&layout=compact&theme=radical" alt="RealTristan Top Languages"/>
 </div>
 
+<br />
+<br />
 <div align="center">
 
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<br />
+<br />
 [realTristan](https://github.com/realTristan)
