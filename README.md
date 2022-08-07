@@ -26,7 +26,4 @@ I'm a 16 year old developer with 2+ years of experience designing, developing an
 <br />
 <div align="center">
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<br />
-<br />
 [realTristan](https://github.com/realTristan)
