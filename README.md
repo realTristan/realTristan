@@ -21,7 +21,7 @@ I'm a 16 year old developer with 2+ years of experience designing, developing an
 <br />
 <br />
 
-**J'aussi parler le francais couramment** 😏
+**“WHEN YOU ARE BACKED AGAINST THE WALL, BREAK THE GODDAMN THING DOWN.”** 😏
 
 </div>
 
