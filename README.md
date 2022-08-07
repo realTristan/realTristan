@@ -13,6 +13,8 @@ I'm a 16 year old developer with 2+ years of experience designing, developing an
 <br />
 <br />
 
+**Winners don't make excuses.**
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=realTristan&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
 <br />
 <br />
@@ -21,7 +23,7 @@ I'm a 16 year old developer with 2+ years of experience designing, developing an
 <br />
 <br />
 
-**“WHEN YOU'RE BACKED AGAINST THE WALL, BREAK THE GODDAMN THING DOWN”**
+**WHEN YOU'RE BACKED AGAINST THE WALL, BREAK THE GODDAMN THING DOWN**
 
 </div>
 
