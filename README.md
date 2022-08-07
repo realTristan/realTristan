@@ -15,13 +15,13 @@ applications and solutions using a range of technologies and programming languag
 
 # Stack
 
-<h1> Services </h1>
+<h3> Services </h3>
 
 ⭐ **AWS**<br />
 ⭐ **SQL**<br />
 ⭐ **Google Cloud**<br />
 
-<h1> Languages </h1>
+<h3> Languages </h3>
 
 ⭐ **Golang (Experienced)**<br />
 ⭐ **Python (Experienced)**<br />
