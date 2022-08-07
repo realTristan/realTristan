@@ -16,14 +16,14 @@ applications and solutions using a range of technologies and programming languag
 <h3> My Favourites </h3>
 
 ⭐ **Google Cloud**<br />
-⭐ **AWS**<br />
-⭐ **SQL**<br />
 ⭐ **Golang (Experienced)**<br />
 ⭐ **Python (Experienced)**<br />
 ⭐ **Flutter / Dart (Experienced)**<br />
 ⭐ **Javascript/Typescript**<br />
 ⭐ **C/C++**<br />
 ⭐ **Java**<br />
+⭐ **AWS**<br />
+⭐ **SQL**<br />
 <br />
 
 **Winners don't make excuses.**
