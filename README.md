@@ -9,7 +9,7 @@
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
-I'm a 16 year old developer with 2+ years of experience designing, developing and implementing applications and solutions using a range of technologies and programming languages. Although I am dominant in Python, Go, Flutter/Dart, SQL, AWS, Google Cloud, C/C++ and Java, I can confidently understand many other Languages / Services.
+I'm a 16 year old developer with over two years of experience designing, developing and implementing applications and solutions using a range of technologies and programming languages. Although I am dominant in Python, Go, Flutter/Dart and Svelte, I can confidently understand other Languages / Services.
 <br />
 <br />
 
