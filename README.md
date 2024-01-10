@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/tristann.simpson/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-
+<br />
 <br />
 Full-stack software engineer with over three years of experience designing, developing, and implementing solutions using a myriad of technologies and programming languages. Although I am most proficient in Python, Go, Rust, C/C++, React, and Angular, I can confidently understand the majority of other languages and services.
 <br />
