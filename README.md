@@ -9,6 +9,10 @@
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
+Full-stack software engineer with over three years of experience designing, developing, and implementing solutions using a myriad of technologies and programming languages. Although I am most proficient in Python, Go, Rust, C/C++, React, and Angular, I can confidently understand the majority of other languages and services.
+<br />
+<br />
+
 <div style="display: flex;">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 71px; margin-bottom: 71px;" />
     <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 71px; margin-bottom: 71px;" />
