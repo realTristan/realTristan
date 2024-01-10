@@ -9,7 +9,7 @@
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
-I'm a full-stack software engineer with over three years of experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages. Although I am most proficient in Python, Go, Rust, C++, and Angular/Svelte, I can confidently understand the majority of other languages and services.
+Full-stack software engineer with over three years of experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages. Although I am most proficient in Python, Go, Rust, C/C++, React, and Angular, I can confidently understand the majority of other languages and services.
 <br />
 <br />
 
