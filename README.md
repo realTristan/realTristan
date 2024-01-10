@@ -9,7 +9,12 @@
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
-Full-stack software engineer with over three years of experience designing, developing, and implementing solutions using a myriad of technologies and programming languages. Although I am most proficient in Python, Go, Rust, C/C++, React, and Angular, I can confidently understand the majority of other languages and services.
+As a Full-stack Software Engineer, I bring over three years of rich, hands-on experience in designing, developing, and deploying comprehensive software solutions. My career has been marked by a deep engagement with a vast array of technologies and programming languages, enabling me to construct robust and scalable systems. My core expertise lies in crafting sophisticated code in Python, Go, Rust, and C/C++, each selected for their performance and suitability to the task at hand.
+
+I excel in front-end development, utilizing the reactive components of React and the structural frameworks of Angular to deliver interactive and user-friendly interfaces. My proficiency extends beyond these to a broad understanding of numerous other programming languages and services, allowing me to adapt swiftly to different coding environments and project requirements.
+
+My technical skill set is complemented by a rigorous approach to software architecture, ensuring that the solutions I architect are not only innovative but also sustainable and aligned with best practices. I take pride in my ability to translate complex problems into elegantly engineered solutions, driving efficiency and value in every project. This versatility makes me a valuable asset across various domains, ready to tackle challenges and deliver high-quality software products.
+
 <br />
 <br />
 
