@@ -29,8 +29,6 @@ Full-stack software engineer with over three years of experience designing, deve
 <br />
 <br />
 
-**Winners don't make excuses.**
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=realTristan&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=radical" alt="RealTristan Github Stats">
 <br />
 <br />
